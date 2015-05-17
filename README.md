@@ -1,2 +1,4 @@
 # hello-world
-my first repository in Github
+=========================
+This is my first step in learning programming language
+Hope it will treat me well!
